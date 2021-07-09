@@ -1,0 +1,1 @@
+﻿Send-MailMessage -SmtpServer SMTP Server Adress -Port 25 -From mail adres -To mail adres -Subject test -Body test
